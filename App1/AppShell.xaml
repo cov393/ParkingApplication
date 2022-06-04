@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms" 
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:App1.View"
+       Title="App1"
+       x:Class="App1.AppShell">
+
+    <FlyoutItem Title="Home" Icon="icon_about.png">
+        <ShellContent Route="Home" ContentTemplate="{DataTemplate local:Home}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Login" Icon="icon_about.png">
+        <ShellContent Route="Login" ContentTemplate="{DataTemplate local:Login}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Registration" Icon="icon_about.png">
+        <ShellContent Route="Registartion" ContentTemplate="{DataTemplate local:Registration}" />
+    </FlyoutItem>
+
+    <!--In file  AppShell.xaml.cs -> the function OnMenuItemClicked = can be deleted-->
+    
+    <!--<MenuItem Text="Login" StyleClass="MenuItemLayoutStyle" Clicked="OnMenuItemClicked">
+    </MenuItem>
+    <MenuItem Text="Registration" StyleClass="MenuItemLayoutStyle" Clicked="OnMenuItemClicked">
+    </MenuItem>-->
+
+    <TabBar>
+        <ShellContent Route="Login" ContentTemplate="{DataTemplate local:Login}" />
+    </TabBar>
+    <TabBar>
+        <ShellContent Route="Registration" ContentTemplate="{DataTemplate local:Registration}" />
+    </TabBar>
+
+</Shell>
+    

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.View.Registration"
+             Title="Registartion Page">
+    <ContentPage.Content>
+        <StackLayout Margin="20" VerticalOptions="CenterAndExpand" Spacing="20" Orientation="Vertical">
+            <Entry Placeholder="User New Email" x:Name="UserNewEmail"/>
+            <Entry Placeholder="User New Password" x:Name="UserNewPassword"/>
+            <Button TextColor="Black" Text="Signup" Clicked="SignUpButton_Clicked" x:Name="signupbutton"/>
+            <Button TextColor="Black" Text="Already have an account?" Clicked="Loginbutton_Clicked" x:Name="loginbutton"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
