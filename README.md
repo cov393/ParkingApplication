@@ -12,3 +12,14 @@ Dissertation
 
 ## Final Design interaction workflow
 ![image](https://user-images.githubusercontent.com/74015697/211216888-3c8c2c01-7f0b-41e1-b1c3-2938fadde740.png)
+
+## Positions from Locations database
+![image](https://user-images.githubusercontent.com/74015697/211216918-d2a9b030-1c3d-455f-83fc-6698148ce858.png)
+
+### Registration.xaml.cs
+![image](https://user-images.githubusercontent.com/74015697/211216937-90714550-e8d1-464d-9a8a-c976abf7d3b5.png)
+![image](https://user-images.githubusercontent.com/74015697/211216946-bd5261d2-e73d-42fb-ac9b-1101cbb3b76b.png)
+
+### Login.xmal.cs
+![image](https://user-images.githubusercontent.com/74015697/211216967-03cee318-3de3-410d-8895-5bc5d69ce5de.png)
+![image](https://user-images.githubusercontent.com/74015697/211216974-fa60305d-e0a2-43f2-8c03-f98728f12962.png)
