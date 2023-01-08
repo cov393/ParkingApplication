@@ -26,3 +26,6 @@ Dissertation
 
 ## Restriction for unsigned users 
 ![image](https://user-images.githubusercontent.com/74015697/211217001-5487b6f6-0b8d-49b5-a8e0-23d60f9c3f1b.png)
+
+## Free parking space near user loader
+![image](https://user-images.githubusercontent.com/74015697/211217048-13dac2f0-07cb-4007-848d-41bfafad8e5d.png)
