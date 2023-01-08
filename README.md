@@ -23,3 +23,6 @@ Dissertation
 ### Login.xmal.cs
 ![image](https://user-images.githubusercontent.com/74015697/211216967-03cee318-3de3-410d-8895-5bc5d69ce5de.png)
 ![image](https://user-images.githubusercontent.com/74015697/211216974-fa60305d-e0a2-43f2-8c03-f98728f12962.png)
+
+## Restriction for unsigned users 
+![image](https://user-images.githubusercontent.com/74015697/211217001-5487b6f6-0b8d-49b5-a8e0-23d60f9c3f1b.png)
