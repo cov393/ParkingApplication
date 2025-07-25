@@ -1,6 +1,8 @@
-*.cs linguist-detectable=true  
-*.java linguist-detectable=false  
-*.js linguist-detectable=false  
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false 
-*.asm linguist-detectable=false
+*.cs linguist-language=C#
+*.xaml linguist-language=C#
+*.sln linguist-language=C#
+*.csproj linguist-language=C#
+*.xaml.cs linguist-language=C#
+# Explicitly exclude binary or generated files that might confuse detection
+bin/* linguist-vendored
+obj/* linguist-vendored
