@@ -2,3 +2,4 @@
 *.xaml linguist-language=C#
 *.sln linguist-language=C#
 *.csproj linguist-language=C#
+# Added comment to trigger re-analysis
